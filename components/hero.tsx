@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963299/Aes-brbs-studio-1_of6kfq.avif",
       title: "Hidup Tenang di Tengah Kota",
       description:
         "Dekat fasilitas utama Brebes, tetap privat dan strategis.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375413/B_01_2_-_Photo_ss_kawgcb.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963296/Aes-brbs-58-1_xjajeb.avif",
       title: "Estetik dan Fungsional",
       description: "Desain minimalis dengan tata ruang yang optimal.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963295/Aes-brbs-55-1_hrpb0n.avif",
       title: "Semua Bisa Dijangkau",
       description: "Sekolah, transportasi, dan pusat belanja dalam hitungan menit.",
     },

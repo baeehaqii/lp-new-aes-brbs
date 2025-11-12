@@ -342,12 +342,11 @@ export default function Properties() {
     {
       id: 1,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963298/Aes-brbs-studio_ukctcf.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963299/Aes-brbs-studio-1_of6kfq.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761376771/Screenshot_2025-10-25_at_14.14.21_gbtjcy.avif",
       name: "Tipe Studio 30/96",
-      price: "300.000.000",
       bedrooms: 1,
       bathrooms: 1,
       area: "30",
@@ -358,12 +357,11 @@ export default function Properties() {
     {
       id: 2,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963299/Aes-brbs-studio-1_of6kfq.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762963298/Aes-brbs-studio_ukctcf.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761376771/Screenshot_2025-10-25_at_14.14.31_g4dayw.avif",
       name: "Tipe 45/96",
-      price: "450.000.000",
       bedrooms: 2,
       bathrooms: 1,
       area: "45",
@@ -374,12 +372,11 @@ export default function Properties() {
     {
       id: 3,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762963295/Aes-brbs-55-1_hrpb0n.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762963296/Aes-brbs-55-2_oyix5n.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761376769/Screenshot_2025-10-25_at_14.14.38_woconb.avif",
       name: "Tipe 55/100",
-      price: "550.000.000",
       bedrooms: 2,
       bathrooms: 1,
       area: "55",
@@ -390,12 +387,11 @@ export default function Properties() {
     {
       id: 4,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762963296/Aes-brbs-58-2_yj3une.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762963296/Aes-brbs-58-1_xjajeb.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761376769/Screenshot_2025-10-25_at_14.14.46_ajxv8c.avif",
       name: "Tipe 58/100",
-      price: "580.000.000",
       bedrooms: 2,
       bathrooms: 1,
       area: "58",
@@ -443,7 +439,6 @@ export default function Properties() {
     images: string[]
     floorPlan: string
     name: string
-    price: string
     bedrooms: number
     bathrooms: number
     area: string
@@ -1011,9 +1006,6 @@ export default function Properties() {
                         </div>
                       </div>
                     </div>
-
-                    <h3 className="modal-subtitle">Harga</h3>
-                    <div className="modal-price">Rp {selectedProperty.price}</div>
 
                     <div className="modal-cta">
                       <Link

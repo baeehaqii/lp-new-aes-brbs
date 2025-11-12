@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762963299/Aes-brbs-studio-1_of6kfq.avif"
                 alt="Sapphire Aesthetic Brebes"
                 width={600}
                 height={450}
@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Sapphire Aesthetic Brebes</h2>
               <p className="about-description">
-                Berada di lokasi paling strategis di Kota Brebes, Sapphire Aesthetic Brebes menghadirkan perumahan Brebes yang modern, estetik, dan fungsional. Terletak di Jl. Taman Siswa, Klp. Sawit, Padasugih, Kec. Brebes, hunian ini memudahkan akses ke pusat pendidikan, transportasi, dan area perbelanjaan, tanpa mengorbankan ketenangan lingkungan. Dengan desain minimalis dan tata ruang optimal, Sapphire Aesthetic Brebes menjadi pilihan ideal bagi keluarga maupun profesional muda yang mencari hunian prestisius dengan kualitas hidup tinggi.
+                Berada di lokasi paling strategis di Kota Brebes, Sapphire Aesthetic Brebes menghadirkan perumahan Brebes yang modern, estetik, dan fungsional. Terletak di Jl. Taman Siswa, Klp. Sawit, Padasugih, Kec. Brebes, hunian ini memudahkan akses ke pusat pendidikan, transportasi, dan area perbelanjaan, tanpa mengorbankan ketenangan lingkungan. 
               </p>
               <div>
                 {/* Ubah Link menjadi button untuk membuka modal */}
