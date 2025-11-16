@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Sapphire Aesthetic Brebes</h2>
               <p className="about-description">
-                Berada di lokasi paling strategis di Kota Brebes, Sapphire Aesthetic Brebes menghadirkan perumahan Brebes yang modern, estetik, dan fungsional. Terletak di Jl. Taman Siswa, Klp. Sawit, Padasugih, Kec. Brebes, hunian ini memudahkan akses ke pusat pendidikan, transportasi, dan area perbelanjaan, tanpa mengorbankan ketenangan lingkungan. 
+                Berada di lokasi paling strategis di Kota Brebes, Sapphire Aesthetic Brebes menghadirkan perumahan Brebes yang modern, estetik, dan fungsional. Terletak di Jl. Taman Siswa, Klp. Sawit, Padasugih, Kec. Brebes, hunian ini memudahkan akses ke pusat pendidikan, transportasi, dan area perbelanjaan, tanpa mengorbankan ketenangan lingkungan.
               </p>
               <div>
                 {/* Ubah Link menjadi button untuk membuka modal */}
@@ -59,25 +59,25 @@ export default function About() {
 
           {/* Container statistik */}
           <div className="about-stats-grid">
-            {/* Statistik - Projects Completed */}
+            {/* Statistik - Lokasi Terbaik */}
             <div className="about-stat-card">
-              <div className="about-stat-value">1</div>
-              <div className="about-stat-label">Perumahan Terbaik di Tegal</div>
+              <div className="about-stat-value">5</div>
+              <div className="about-stat-label">Lokasi Terbaik di Jawa Bagian Utara</div>
             </div>
 
-            {/* Statistik - Awards */}
+            {/* Statistik - Keluarga Sapphire */}
             <div className="about-stat-card">
               <div className="about-stat-value">10000+</div>
               <div className="about-stat-label">Keluarga Sapphire</div>
             </div>
 
-            {/* Statistik - Satisfied Clients */}
+            {/* Statistik - Proyek Unggulan */}
             <div className="about-stat-card">
-              <div className="about-stat-value">5+</div>
-              <div className="about-stat-label">CCTV Kawasan</div>
+              <div className="about-stat-value">8</div>
+              <div className="about-stat-label">Proyek Unggulan</div>
             </div>
 
-            {/* Statistik - Years of Experience */}
+            {/* Statistik - Tahun Pengalaman */}
             <div className="about-stat-card">
               <div className="about-stat-value">19</div>
               <div className="about-stat-label">Tahun Pengalaman</div>
